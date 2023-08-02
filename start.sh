@@ -8,5 +8,5 @@ else
 fi
 cd /LazyAmRobots
 pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+echo "Starting AM-ROBOTS...."
 python3 bot.py
